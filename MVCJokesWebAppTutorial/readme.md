@@ -14,3 +14,5 @@ This tutorial will show you how to :
 - Create a search function to filter database results.
 
 ✏️ Course developed by Shad Sluiter. Check out his YouTube channel: https://www.youtube.com/user/shadsluiter
+
+![Model View Controller map](assets/20210811193256.png)
